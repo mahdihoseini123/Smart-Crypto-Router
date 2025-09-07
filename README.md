@@ -1,10 +1,10 @@
 # 🗺️ Smart Crypto Router
 
-[**🚀 Live Demo**](https://your-live-demo-url.com) <!-- Replace this with your live project URL -->
+[**🚀 Live Demo**](https://sites.google.com/view/smartcryptorouter/smart-crypto-router)
 
 A simple and efficient web tool for finding the best and most optimal route to swap cryptocurrencies. This project was developed to help users quickly find the easiest way to exchange assets on Centralized Exchanges (CEX).
 
-![Smart Crypto Router Screenshot](./screenshot.png) <!-- Place a screenshot named screenshot.png in the root of your project -->
+![Smart Crypto Router Screenshot](https://github.com/mahdihoseini123/Smart-Crypto-Router/blob/main/Screenshot.png?raw=true)
 
 ## ✨ Features
 
